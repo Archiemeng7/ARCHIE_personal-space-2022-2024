@@ -10,7 +10,7 @@
 
 
 个人网页：[WeiqiMeng](https://weiqimeng7.github.io/)
-参考设计：[KristenJZ](https://kristenjz.github.io/)；[hongtaoh](hongtaoh.com)
+参考设计：[KristenJZ](https://kristenjz.github.io/)；[hongtaoh](https://hongtaoh.com/)
 
 
 
