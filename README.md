@@ -12,7 +12,8 @@
 个人网页：[WeiqiMeng](https://weiqimeng7.github.io/)
 参考设计：[KristenJZ](https://kristenjz.github.io/)；[hongtaoh](https://hongtaoh.com/)
 
-![孟小柒同学seven-图床图片-Myself](https://cdn.staticaly.com/gh/Archiemeng7/ARCHIE_personal-space-2022-2024@main/图床图片/孟小柒同学seven-图床图片-Myself.3doaawnd3do0.jpg)
+![孟小柒同学seven-图床图片-Myself](https://jsd.cdn.zzko.cn/gh/Archiemeng7/ARCHIE_personal-space-2022-2024@main/图床图片/孟小柒同学seven-图床图片-Myself.3doaawnd3do0.jpg)
+
 
 Github:
 [KristenJZ](https://github.com/KristenJZ/KristenJZ.github.io);
