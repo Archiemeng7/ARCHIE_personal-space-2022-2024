@@ -12,4 +12,8 @@
 个人网页：[WeiqiMeng](weiqimeng7.github.io)
 参考设计：[KristenJZ](KristenJZ.github.io)；[hongtaoh](hongtaoh.github.io)
 
+Github:
+[KristenJZ](https://github.com/KristenJZ/KristenJZ.github.io)
+[hongtaoh](https://github.com/hongtaoh/hongtaoh.github.io)
+
 
