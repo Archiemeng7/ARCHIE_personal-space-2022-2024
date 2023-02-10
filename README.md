@@ -9,11 +9,13 @@
 
 
 
-个人网页：[WeiqiMeng](weiqimeng7.github.io)
-参考设计：[KristenJZ](KristenJZ.github.io)；[hongtaoh](hongtaoh.github.io)
+个人网页：[WeiqiMeng](https://weiqimeng7.github.io/)
+参考设计：[KristenJZ](https://kristenjz.github.io/)；[hongtaoh](hongtaoh.com)
+
+
 
 Github:
-[KristenJZ](https://github.com/KristenJZ/KristenJZ.github.io)
+[KristenJZ](https://github.com/KristenJZ/KristenJZ.github.io);
 [hongtaoh](https://github.com/hongtaoh/hongtaoh.github.io)
 
 
